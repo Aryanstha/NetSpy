@@ -1,6 +1,7 @@
+# NetSpy🔎
 <h1 align="center">
   <br>
-  <a href="https://github.com/Aryanstha/NetSpy"><img width="400" height="400" src="https://github.com/Aryanstha/NetSpy/blob/main/web/favicon.png?raw=true"  alt="NetSpy">NetSpy🔎</a>
+  <a href="https://github.com/Aryanstha/NetSpy"><img width="200" height="200" src="https://github.com/Aryanstha/NetSpy/blob/main/web/favicon.png?raw=true"  alt="NetSpy"></a>
 
 </h1>
 
