@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Aryanstha/NetSpy"><img src="https://github.com/Aryanstha/NetSpy/blob/main/web/favicon.png?raw=true" alt="NetSpy"></a>
+  <a href="https://github.com/Aryanstha/NetSpy"><img width="100" height="100" src="https://github.com/Aryanstha/NetSpy/blob/main/web/favicon.png?raw=true"  alt="NetSpy"></a>
 
 </h1>
 
