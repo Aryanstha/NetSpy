@@ -54,7 +54,7 @@
 
 ### Platforms Tested
 
-- Kali Linux 2022 
+- Kali Linux
 - Window
 - macOS Big Sur / M1 
 <br>
